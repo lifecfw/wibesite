@@ -1,5 +1,5 @@
 
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/1434224750334447808/HTkI5ayeHc7NW5pwtO3QSewiq00hPln-qrlH9Z7itbzf67LXxMWssktCE1gq7oeGq0VM';
+const WEBHOOK_URL = 'https://canary.discord.com/api/webhooks/1434272241670946900/AqFo0MZoaN0_aVeGBsEV8sDcfzQpaK1b6eE2tQc3wS7oeOiOWMlTBVtlKTKH7Y5An-Iq';
 
 // Hamburger Menu Toggle
 const hamburger = document.querySelector('.hamburger');
